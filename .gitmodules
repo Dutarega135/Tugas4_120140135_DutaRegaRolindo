@@ -1,0 +1,6 @@
+[submodule "Redux-Saga"]
+	path = Redux-Saga
+	url = https://github.com/Dutarega135/Tugas4_120140135_DutaRegaRolindo.git
+[submodule "Redux-Thunk"]
+	path = Redux-Thunk
+	url = https://github.com/Dutarega135/Tugas4_120140135_DutaRegaRolindo.git
